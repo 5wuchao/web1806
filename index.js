@@ -4,4 +4,5 @@ function fn(argument) {
 		name: 'wuchao'
 	}
 	var sex = '男'
+	var content = '大家好，我是msg分支'
 }
