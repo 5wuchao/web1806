@@ -3,4 +3,5 @@ function fn(argument) {
 	var obj = {
 		name: 'wuchao'
 	}
+	var sex = '男'
 }
